@@ -1,0 +1,11 @@
+﻿//string today = "https://www.tcmb.gov.tr/kurlar/today.xml";
+            //var xmlDoc = new XmlDocument();
+            //xmlDoc.Load(today);
+            //string dolarAlis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='USD']/BanknoteBuying").InnerXml;
+            //Console.WriteLine("Dolar Alis Fiyati: "+dolarAlis);
+            //string dolarSatis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='USD']/BanknoteSelling").InnerXml;
+            //Console.WriteLine("Dolar SAtis Fiyati: " + dolarSatis);
+            //string euroAlis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='EUR']/BanknoteBuying").InnerXml;
+            //Console.WriteLine("Euro Alis Fiyati: " + euroAlis);
+            //string euroSatis = xmlDoc.SelectSingleNode("Tarih_Date/Currency[@Kod='EUR']/BanknoteSelling").InnerXml;
+            //Console.WriteLine("Euro Satis Fiyati: " + euroSatis);
